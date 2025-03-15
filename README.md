@@ -5,9 +5,9 @@ A simple **weather app** that fetches real-time weather data using the **OpenWea
 
 ---
 
-## 🚀 Features
+##  Features
 -  **Search by city name** to get weather details.
-- 🌡 **Displays:**
+-  **Displays:**
   - Temperature (°C)
   - Humidity (%)
   - Wind speed (km/h)
@@ -17,7 +17,7 @@ A simple **weather app** that fetches real-time weather data using the **OpenWea
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠 Technologies Used
 - **HTML** – Structure of the web page.
 - **CSS** – Styling and layout.
 - **JavaScript** – Fetching and displaying weather data.
@@ -41,7 +41,15 @@ Simply open the `index.html` file in a web browser.
 
 ---
 
-## 📂 Project Structure
+### 4 Screenshots
+![image](https://github.com/user-attachments/assets/335be516-7a8d-4128-be37-eacb72c91442)
+![image](https://github.com/user-attachments/assets/db59d226-7c9c-4a10-8fb6-06c47fed2530)
+
+
+
+
+
+##  Project Structure
 ```
 weather-app/
 │-- index.html      # Main HTML file
@@ -52,7 +60,7 @@ weather-app/
 
 ---
 
-## 🔧 Future Enhancements
+##  Future Enhancements
 -  **Support for multiple temperature units** (°C, °F, K).
 -  **5-day weather forecast integration**.
 -  **UI improvements** with animations.
@@ -60,10 +68,6 @@ weather-app/
 
 ---
 
-## 📜 License
-This project is open-source and available under the **MIT License**.
-
----
 
 ## 👤 Author
 - **Name:** Ritigya Singh  
