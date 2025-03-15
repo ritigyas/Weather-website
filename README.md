@@ -1,48 +1,71 @@
-
 # Weather Information App
 
-## Description
-This simple weather information app allows users to search for the current weather conditions in any city. The app fetches real-time weather data using the OpenWeatherMap API and displays temperature, humidity, wind speed, and an appropriate weather icon.
+##  Project Overview
+A simple **weather app** that fetches real-time weather data using the **OpenWeatherMap API**. Users can enter a city name to get **temperature, humidity, wind speed, and weather conditions** with relevant icons.
 
-## Features
-- Search weather by city name
-- Displays:
-  - Current temperature (in Celsius)
-  - Humidity percentage
-  - Wind speed (in km/h)
+---
+
+## 🚀 Features
+-  **Search by city name** to get weather details.
+- 🌡 **Displays:**
+  - Temperature (°C)
+  - Humidity (%)
+  - Wind speed (km/h)
   - Weather condition icon
-- Error handling for invalid city names
+-  **Error handling** for invalid city names.
+-  **Responsive and user-friendly UI**.
 
-## Technologies Used
-- **HTML**: Structure of the web page
-- **CSS**: Styling and layout
-- **JavaScript**: Fetching and displaying weather data
-- **OpenWeatherMap API**: Provides real-time weather data
+---
 
+## 🛠️ Technologies Used
+- **HTML** – Structure of the web page.
+- **CSS** – Styling and layout.
+- **JavaScript** – Fetching and displaying weather data.
+- **OpenWeatherMap API** – Provides real-time weather information.
 
+---
 
-### 1. Open the Project
+##  Installation & Usage
+### 1️ Clone the Repository
+```sh
+git clone https://github.com/ritigyas/weather-app.git
+cd weather-app
+```
+
+### 2️ Open the Project
 Simply open the `index.html` file in a web browser.
 
+### 3 Run the Application
+- Enter a city name in the search box.
+- Click the **Search** button to fetch weather details.
 
-### 2. Run the Application
-Enter a city name in the search box and click the search button to fetch weather details.
+---
 
-## File Structure
+## 📂 Project Structure
 ```
 weather-app/
 │-- index.html      # Main HTML file
 │-- index.css       # Stylesheet
 │-- script.js       # JavaScript for API requests and DOM manipulation
-│-- images/         # Contains weather icons (e.g., rain.png, clear.png)
+│-- images/         # Weather icons (e.g., rain.png, clear.png)
 ```
 
-## Future Improvements
-- Add support for Fahrenheit & Kelvin temperature units
-- Implement a 5-day weather forecast
-- Improve UI with animations
+---
 
+## 🔧 Future Enhancements
+-  **Support for multiple temperature units** (°C, °F, K).
+-  **5-day weather forecast integration**.
+-  **UI improvements** with animations.
+-  **Geolocation-based weather updates**.
 
+---
 
+## 📜 License
+This project is open-source and available under the **MIT License**.
 
+---
+
+## 👤 Author
+- **Name:** Ritigya Singh  
+- **GitHub:** ritigyas(https://github.com/ritigyas)
 
